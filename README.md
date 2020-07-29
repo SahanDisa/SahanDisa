@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my DEV :rocket:
 
-![SahanDisa github stats](https://github-readme-stats.vercel.app/api?username=sahandisara&show_icons=true&theme=radical)
+![SahanDisa github stats](https://github-readme-stats.vercel.app/api?username=sahandisa&show_icons=true&theme=radical)
 <!--
 **SahanDisa/SahanDisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
