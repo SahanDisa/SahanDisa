@@ -2,7 +2,7 @@
 
 ![SahanDisa github stats](https://github-readme-stats.vercel.app/api?username=sahandisa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandisa&layout=compact)](https://github.com/sahandisa/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandisa&layout=compact)]
 <!--
 **SahanDisa/SahanDisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
