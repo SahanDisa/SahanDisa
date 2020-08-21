@@ -1,7 +1,5 @@
 ### Hi there 👋 Welcome to my DEV :rocket:
 
-![Hi, I'm Sahan Dissanayaka 👋 I'm a 🚀 developer 🚀](https://github.com/matyo91/matyo91/raw/master/assets/github.gif)
-
 ![SahanDisa github stats](https://github-readme-stats.vercel.app/api?username=sahandisa&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandisa&layout=compact)
