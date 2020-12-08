@@ -4,12 +4,6 @@
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandisa&layout=compact)-->
 
-### I'm Interested In
-
-  >  Web Application Development with MEAN,MERN
-  >  Mobile Application Development
-  >  Cloud Computing 
-
 ### Connect Me Through
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tsahandisaai@gmail.com)
