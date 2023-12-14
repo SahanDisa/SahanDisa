@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to my DEV :rocket:
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sahandisa/langs)](https://githubtrends.io)
+
 ![SahanDisa github stats](https://github-readme-stats.vercel.app/api?username=sahandisa&show_icons=true&theme=radical)
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandisa&layout=compact)-->
