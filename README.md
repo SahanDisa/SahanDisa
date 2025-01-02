@@ -2,7 +2,7 @@
 
 ![SahanDisa github stats](https://github-readme-stats.vercel.app/api?username=sahandisa&show_icons=true&theme=radical)
 
-![SahanDisa Language stats](https://api.githubtrends.io/user/svg/SahanDisa/langs?time_range=one_year&compact=True&theme=dark)
+<!--![SahanDisa Language stats](https://api.githubtrends.io/user/svg/SahanDisa/langs?time_range=one_year&compact=True&theme=dark)-->
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandisa&layout=compact)-->
 
