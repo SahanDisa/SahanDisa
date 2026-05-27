@@ -88,8 +88,7 @@
 ## What I'm Working On
 
 - 🚀 **Production ML Pipelines** — cascaded seat propensity models with ONNX export, zone-level classification, and config-driven YAML model registry
-- 📈 **Algorithmic Trading System** — value-investing-focused bot on Alpaca with sector-aware scanning and composite RL-weighted scoring
-- 🧠 **Research** — multimodal time series anomaly detection and evolving paradigms in time series modelling (IEEE format)
+- 🧠 **Research** — multimodal foundational models, edge AI, evolving paradigms in time series modelling
 - ✏️ **Teaching** — CCS3308 Virtualization & Containers; bridging container orchestration theory with MLOps production patterns
 
 ---
